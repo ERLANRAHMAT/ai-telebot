@@ -32,7 +32,7 @@ $ node beta.js
 
 5. Setup a new bot on Telegram by following the [official Telegram Bot documentation](https://core.telegram.org/bots#botfather). Obtain the bot token for your newly created bot.
 
-6. [Replace] ('https://github.com/ERLANRAHMAT/ai-telebot/blob/37b65c766f960c3c33ed289b9ac389dfd844b36d/settings.json#L3') this line with a token from bot father
+6. [Replace] (https://github.com/ERLANRAHMAT/ai-telebot/blob/37b65c766f960c3c33ed289b9ac389dfd844b36d/settings.json#L3) this line with a token from bot father
 
 ```javascript
 token: 'YOUR_TOKEN_HERE'
@@ -40,10 +40,10 @@ token: 'YOUR_TOKEN_HERE'
 
 Replace `<YOUR_TOKEN_HERE>` with the actual bot token obtained from the previous step.
 
-7. [Replace] ('https://github.com/ERLANRAHMAT/ai-telebot/blob/37b65c766f960c3c33ed289b9ac389dfd844b36d/settings.json#L2') this line with a your username 
+7. [Replace] (https://github.com/ERLANRAHMAT/ai-telebot/blob/37b65c766f960c3c33ed289b9ac389dfd844b36d/settings.json#L2) this line with a your username 
 
 ```javascript
-ownerUsername: 'YOUR_USERNAME_HERE'
+ownerUsername:'YOUR_USERNAME_HERE'
 ```
 
 Replace `<YOUR_USERNAME_HERE>` with the actual username obtained from the previous step.
