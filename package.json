@@ -9,7 +9,7 @@
   "author": "Lann",
   "license": "ISC",
   "dependencies": {
-    "betabotz-tools": "*",
+    "betabotz-tools": "0.0.4-fix",
     "chalk": "^4.1.1",
     "express": "^4.18.2",
     "figlet": "^1.6.0",
