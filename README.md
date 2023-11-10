@@ -48,11 +48,11 @@ ownerUsername:'YOUR_USERNAME_HERE'
 
 Replace `<YOUR_USERNAME_HERE>` with the actual username obtained from the previous step.
 
-8. Your bot is now ready to use! Start a chat with your bot on Telegram and start downloading TikTok videos by sending TikTok URLs.
+8. Your bot is now ready to use! Start a chat with your bot on Telegram and start chatting with ai.
 
 ## Usage
 
-Once your Telegram Bot Tiktok Downloader is installed and running, you can use it to download TikTok videos. Here's how:
+Once your Telegram Bot AI CHATBOT is installed and running, you can use it to download Use. Here's how:
 
 1. Start a chat with your bot on Telegram.
 
